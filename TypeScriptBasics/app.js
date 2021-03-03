@@ -1,3 +1,4 @@
+"use strict";
 //boolean
 var isOpen = false;
 //string
